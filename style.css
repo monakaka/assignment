@@ -44,7 +44,8 @@ h1{
     width: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    padding:20px;
+    padding:21px;
+    padding-left: 2%;
     box-shadow: 10px 10px 40px gray;
     border-radius: 15px;
 }
@@ -67,14 +68,17 @@ h4{
     text-align: center;
     background-color: violet;
     margin-bottom: 4%;
-
+    border: 5px solid cornflowerblue;
+    border-radius: 12px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 .extra-marks{
-    width: 50%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 5%;
-    padding-left: 11%;
+    width:33%;
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-left:10%;
+    padding-right: 10%;
     border-radius: 15px;   
     background-color:khaki;
 }
