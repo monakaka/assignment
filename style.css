@@ -58,6 +58,7 @@ h1{
 #footer{
     text-align: center;
     background-color: black;
+    margin-top:10%;
 }
 h4{
     color: white;
@@ -65,12 +66,14 @@ h4{
 #menu{
     text-align: center;
     background-color: violet;
+    margin-bottom: 4%;
 
 }
 .extra-marks{
     width: 50%;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 5%;
     padding-left: 11%;
     border-radius: 15px;   
     background-color:khaki;
